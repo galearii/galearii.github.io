@@ -3,6 +3,7 @@ layout: post
 title:  Handling Errors in Rails
 date:   2019-05-23 20:00:56 +0800
 categories: rails
+tags: [rails]
 ---
 
 ## Controller

@@ -3,6 +3,7 @@ layout: post
 title:  Rails and Ajax
 date:   2019-05-24 20:00:56 +0800
 categories: rails
+tags: [rails]
 ---
 
 The general flow to follow when adding Ajax to Rails is...

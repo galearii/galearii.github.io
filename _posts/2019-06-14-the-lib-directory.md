@@ -3,6 +3,7 @@ layout: post
 title:  The /lib Directory
 date:   2019-06-14 21:00:56 +0800
 categories: rails
+tags: [rails]
 ---
 
 - The `lib` directory holds application code that doesn't fit naturally into a model, view, or controller.

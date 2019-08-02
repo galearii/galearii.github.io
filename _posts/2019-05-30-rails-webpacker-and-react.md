@@ -3,6 +3,7 @@ layout: post
 title:  Using React in Rails through Webpacker
 date:   2019-05-30 20:00:56 +0800
 categories: rails
+tags: [rails]
 ---
 
 From _Agile Web Development with Rails 6_:

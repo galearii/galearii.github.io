@@ -3,6 +3,7 @@ layout: post
 title:  Skipping Individual Controllers and Actions of Authorization
 date:   2019-06-10 21:00:56 +0800
 categories: rails
+tags: [rails]
 ---
 
 You can put the authorization method in the `before_action` filer in the application controller and skip this method individually in each of the controller that doesn't need authorization.

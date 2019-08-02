@@ -3,6 +3,7 @@ layout: post
 title:  Some small things in Rails
 date:   2019-05-22 20:00:56 +0800
 categories: rails
+tags: [rails]
 ---
 
 *Some small things worth remembering for a Rails noob*
